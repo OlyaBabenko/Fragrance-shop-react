@@ -8,7 +8,7 @@ import Product from "./Components/Main/Product/Product";
 function App() {
     const router = createBrowserRouter([
         {
-            path: "/",
+            path: "Fragrance-shop-react/",
             element: <Main/>
         },
         {
