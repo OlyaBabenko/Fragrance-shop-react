@@ -1,0 +1,79 @@
+.productPage {
+  width: 100%;
+  //height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+
+  .pseudoHeader {
+    height: 100px;
+    box-sizing: border-box;
+  }
+  .productWrapper {
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+
+    .nameFragrance {
+      width: 100%;
+      padding: 30px 0;
+      text-align: center;
+      border-bottom: 4px solid #b2405d;
+      margin-bottom: 30px;
+    }
+
+    .productImageDescr {
+      display: flex;
+
+      .imageContainer {
+        height: 500px;
+        width: 500px;
+        display: flex;
+        justify-content: center;
+        box-sizing: border-box;
+
+        .productImage {
+          height: 98%;
+          width: auto;
+          max-width: 450px;
+        }
+      }
+
+      .productDescription {
+        width: 500px;
+        font-size: 25px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+    }
+
+    .priceVolumeContainer {
+      width: 100%;
+      padding: 30px 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20%;
+      border-bottom: 4px solid #b2405d;
+
+      .oldPrice {
+        text-decoration: line-through;
+      }
+
+      .button {
+        padding: 10px 50px;
+        color: #feedf3;
+        cursor: pointer;
+        background-color: #b2405d;
+
+        &:hover {
+          background-color: #185618;
+        }
+      }
+    }
+  }
+}
