@@ -7,6 +7,14 @@ header {
   align-items: center;
   justify-content: space-around;
   border-bottom: 4px solid $pink;
+  background-image: url("../../assets/image/bcg-black2560-1600.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
 
 
 

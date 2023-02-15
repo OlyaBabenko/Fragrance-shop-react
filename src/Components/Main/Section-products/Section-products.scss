@@ -1,6 +1,24 @@
 .section-products {
   width: 70%;
+  padding: 30px 0;
+  height: 90vh;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  background-color: rgb(40, 0, 10, 0.65);
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: rgba(0, 0, 0, 0);
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: #b2405d;
+    border-radius: 2px;
+
+  }
 }

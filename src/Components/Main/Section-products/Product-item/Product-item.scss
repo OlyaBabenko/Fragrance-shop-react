@@ -7,13 +7,14 @@
   align-items: center;
   padding: 30px 0;
   transition-duration: 0.7s;
+  cursor: pointer;
   transition-property: transform,-webkit-transform;
 
   .productDivImg {
     height: 250px;
     width: 330px;
     background: rgb(51,3,15);
-    background: linear-gradient(90deg, rgba(51,3,15,1) 4%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, rgba(51,3,15,1) 96%);
+    background: linear-gradient(90deg, rgba(51,3,15,0) 4%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, rgba(51,3,15,0) 96%);
     display: flex;
     box-sizing: border-box;
     justify-content: center;
@@ -29,6 +30,7 @@
   .productName {
     font-family: $cursive;
     text-align: center;
+    margin: 20px 0;
   }
 
   .productVolume {
@@ -38,30 +40,12 @@
   .productPrice {
     margin: 0;
   }
-
-  .productItemShow {
-    margin-top: 20px;
-    padding: 10px 30px;
-    border: 1px solid $white;
-    background-color: $hover;
-    color: $white;
-    visibility: hidden;
-  }
-
   &:hover {
     background-color: $hover;
     border-radius: 5px;
     box-shadow: 0px -10px 10px 0px rgba(0, 0, 0, 0.5);
     transform: perspective(700px) translateZ(30px);
 
-    .productDivImg {
-      background: linear-gradient(90deg, rgba(94,5,27,1) 4%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, rgba(94,5,27,1) 96%);
-    }
-
-    .productItemShow {
-      visibility: visible;
-      cursor: pointer;
-    }
   }
 
 

@@ -6,6 +6,14 @@ header {
   align-items: center;
   justify-content: space-around;
   border-bottom: 4px solid #b2405d;
+  background-image: url("../../assets/image/bcg-black2560-1600.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
 }
 header .search-bar {
   display: flex;
@@ -17,7 +25,7 @@ header .search-bar .search-form {
   width: 200px;
 }
 header .search-bar .search-form .input-search {
-  background-color: #5e051b;
+  background-color: rgba(94, 5, 27, 0.5);
   border: none;
   border-radius: 25px;
   padding: 15px;
@@ -30,7 +38,7 @@ header .search-bar .search-button {
   cursor: pointer;
 }
 header .search-bar .search-button:hover {
-  background-color: #5e051b;
+  background-color: rgba(94, 5, 27, 0.5);
 }
 header .search-bar .search-button .search-button-img {
   height: 30px;
@@ -48,7 +56,7 @@ header .header-nav .header-nav-btn {
   cursor: pointer;
 }
 header .header-nav .header-nav-btn:hover {
-  background-color: #5e051b;
+  background-color: rgba(94, 5, 27, 0.5);
 }
 header .header-nav .header-nav-btn .header-nav-img {
   height: 35px;
