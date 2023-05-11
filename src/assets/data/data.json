@@ -1,0 +1,769 @@
+[
+  {
+    "id": "1",
+    "name": "Black Opium",
+    "brand": "Yves Saint Laurent",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/127021/",
+    "urlImage": "https://u.makeup.com.ua/n/nq/nqmnqp0ktvo3.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "2770 ₴",
+        "actual": "1737 ₴"
+      },
+      {
+        "old": "4120 ₴",
+        "actual": "3005 ₴"
+      },
+      {
+        "old": "5240 ₴",
+        "actual": "3952 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "90 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2014",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "spicy, oriental Top",
+      "Top note": "Coffee accord",
+      "Heart note": "Jasmine, Pink pepper, Orange blossom Base",
+      "Base note": "Vanilla, Cedar, Patchouli"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Bright Crystal",
+    "brand": "Versace",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/4146/",
+    "urlImage": "https://u.makeup.com.ua/d/dx/dxvd4ldownjs.jpg",
+    "price-sale": false,
+    "price": [
+      {
+        "actual": "1406 ₴"
+      },
+      {
+        "actual": "1631 ₴"
+      },
+      {
+        "actual": "2638 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "90 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2006",
+      "Country of TM": "Italy",
+      "Made in": "Italy",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "floral",
+      "Top note": "Pomegranate, Ice accord, Yuzu",
+      "Heart note": "Lotus, Magnolia, Peony",
+      "Base note": "Amber, Musk, Red tree"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Si",
+    "brand": "Giorgio Armani",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/70153/",
+    "urlImage": "https://u.makeup.com.ua/i/ii/iimqbuhqvixj.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "2889 ₴",
+        "actual": "1970 ₴"
+      },
+      {
+        "old": "4199 ₴",
+        "actual": "2447 ₴"
+      },
+      {
+        "old": "5499 ₴",
+        "actual": "3460 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "100 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2013",
+      "Country of TM": "Italy",
+      "Made in": "France",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "Chypre Top",
+      "Top note": "Blackcurrant leaves",
+      "Heart note": "White freesia, Cinnamon rosehip Base",
+      "Base note": "Vanilla, Cedar, Patchouli"
+    }
+  },
+  {
+    "id": "4",
+    "name": "L'Imperatrice",
+    "brand": "Dolce & Gabbana",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/11180/",
+    "urlImage": "https://u.makeup.com.ua/j/jx/jxgy1ochkoob.jpg",
+    "price-sale": false,
+    "price": [
+      {
+        "actual": "1491 ₴"
+      },
+      {
+        "actual": "1525 ₴"
+      }
+    ],
+    "volume": [
+      "50 ml",
+      "100 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2009",
+      "Country of TM": "Italy",
+      "Made in": "France",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "watery, floral, fruity",
+      "Top note": "Kiwi, Rhubarb, Pink pepper",
+      "Heart note": "Jasmine, Watermelon, Cyclamen",
+      "Base note": "Lemon Wood, Musk, Sandalwood"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Chance Eau Tendre",
+    "brand": "Chanel",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/12785/",
+    "urlImage": "https://u.makeup.com.ua/q/qx/qxxrlct6h5uj.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "actual": "4539 ₴"
+      },
+      {
+        "old": "5586 ₴",
+        "actual": "4539 ₴"
+      },
+      {
+        "actual": "8267 ₴"
+      }
+    ],
+    "volume": [
+      "50 ml",
+      "100 ml",
+      "150 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2010",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "floral, fruity",
+      "Top note": "Quince, Grapefruit",
+      "Heart note": "Hyacinth, Jasmine",
+      "Base note": "Iris, Amber, Cedar, Musk"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Acqua di Gio pour homme",
+    "brand": "Giorgio Armani",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/2036/",
+    "urlImage": "https://u.makeup.com.ua/y/yu/yumthhfxnnfn.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "2999 ₴",
+        "actual": "1998 ₴"
+      },
+      {
+        "old": "3999 ₴",
+        "actual": "2109 ₴"
+      },
+      {
+        "old": "5899 ₴",
+        "actual": "3135 ₴"
+      }
+    ],
+    "volume": [
+      "50 ml",
+      "100 ml",
+      "200 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "1996",
+      "Country of TM": "Italy",
+      "Made in": "France",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "watery, fougere Top",
+      "Top note": "Orange, Bergamot, Jasmine, Lime, Lemon, Mandarin",
+      "Heart note": "Hyacinth, Coriander, Sea accord , Nutmeg, Peach, Reseda, Rose, Freesia, Violet, Cyclamen",
+      "Base note": "Amber, White musk, Oakmoss, Cedar, Patchouli"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Eau de Parfum",
+    "brand": "Chloe",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/9695/",
+    "urlImage": "https://u.makeup.com.ua/n/ne/nejvrcjookep.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "actual": "1882 ₴"
+      },
+      {
+        "old": "3858 ₴",
+        "actual": "2429 ₴"
+      },
+      {
+        "actual": "3144 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "75 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2008",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "floral, oriental",
+      "Top note": "Lychee, Peony, Freesia",
+      "Heart note": "Lily of the valley, Magnolia, Rose",
+      "Base note": "Amber, Cedar, Musk, Powder notes"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Coco Mademoiselle",
+    "brand": "Chanel",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/1190/",
+    "urlImage": "https://u.makeup.com.ua/d/dk/dknawiy1tgqf.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "actual": "3263 ₴"
+      },
+      {
+        "actual": "4159 ₴"
+      },
+      {
+        "old": "6736 ₴",
+        "actual": "5514 ₴"
+      },
+      {
+        "actual": "8954 ₴"
+      }
+    ],
+    "volume": [
+      "35 ml",
+      "50 ml",
+      "100 ml",
+      "200 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2001",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "floral, oriental",
+      "Top note": "Orange, Bergamot",
+      "Heart note": "Jasmine, Rose",
+      "Base note": "Vetiver, Patchouli"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Sauvage",
+    "brand": "Dior",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/191575/",
+    "urlImage": "https://u.makeup.com.ua/r/rg/rgv5ak2wrqgo.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "2770 ₴",
+        "actual": "1737 ₴"
+      },
+      {
+        "old": "4120 ₴",
+        "actual": "3005 ₴"
+      },
+      {
+        "old": "5240 ₴",
+        "actual": "3952 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "100 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2015",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "fougere Top",
+      "Top note": "Sichuan pepper",
+      "Heart note": "Bergamot Base",
+      "Base note": "Ambroxan"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Libre",
+    "brand": "Yves Saint Laurent",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/696475/",
+    "urlImage": "https://u.makeup.com.ua/f/fq/fqq1voos5uk0.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "2770 ₴",
+        "actual": "1931 ₴"
+      },
+      {
+        "old": "4120 ₴",
+        "actual": "2742 ₴"
+      },
+      {
+        "old": "5240 ₴",
+        "actual": "4157 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "90 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2019",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "floral Top",
+      "Top note": "Lavender, Petitgrain, Tangerine, Blackcurrant",
+      "Heart note": "Orange blossom, Jasmine sambac, Lavender Base",
+      "Base note": "Amber , White musk, Vanilla, Cedar"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Bleu de Chanel",
+    "brand": "Chanel",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/15154/",
+    "urlImage": "https://u.makeup.com.ua/0/0j/0jjue3ut0igf.jpg",
+    "price-sale": false,
+    "price": [
+      {
+        "actual": "3437 ₴"
+      },
+      {
+        "actual": "4579 ₴"
+      },
+      {
+        "actual": "5127 ₴"
+      }
+    ],
+    "volume": [
+      "50 ml",
+      "100 ml",
+      "150 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2010",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "woody, fougere Top",
+      "Top note": "Vetiver, Jasmine, Pink pepper, Citrus",
+      "Heart note": "Grapefruit, Cedar, Labdanum, Mint",
+      "Base note": "Ginger, Frankincense, Patchouli, Sandalwood"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Good Girl",
+    "brand": "Carolina Herrera",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/283295/",
+    "urlImage": "https://u.makeup.com.ua/j/jr/jryhsaynmrzu.jpg",
+    "price-sale": false,
+    "price": [
+      {
+        "actual": "4075 ₴"
+      },
+      {
+        "actual": "4944 ₴"
+      }
+    ],
+    "volume": [
+      "80 ml",
+      "150 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2016",
+      "Country of TM": "USA",
+      "Made in": "Spain",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "floral, oriental",
+      "Top note": "Bergamot, Coffee, Lemon, Almond",
+      "Heart note": "Sambac jasmine, Tuberose Base",
+      "Base note": "Ambergris, Beans tonka, white cedar, vanilla, cocoa, cashmere wood, cinnamon, musk, patchouli, praline, sandalwood"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Terre dHermes",
+    "brand": "Hermes",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/2585/",
+    "urlImage": "https://u.makeup.com.ua/s/s5/s5tmfitbvlpg.jpg",
+    "price-sale": false,
+    "price": [
+      {
+        "actual": "2341 ₴"
+      },
+      {
+        "actual": "2018 ₴"
+      },
+      {
+        "actual": "5400 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "200 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2006",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "woody, spicy",
+      "Top note": "Orange, Grapefruit, Minerals",
+      "Heart note": "Geranium, Atlas cedar, Pepper, Rose Base",
+      "Base note": "Benzoin , Vetiver, Patchouli"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Mon Paris",
+    "brand": "Yves Saint Laurent",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/314329/",
+    "urlImage": "https://u.makeup.com.ua/a/aa/aa3ds0wspw7x.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "2770 ₴",
+        "actual": "2220 ₴"
+      },
+      {
+        "old": "4120 ₴",
+        "actual": "3119 ₴"
+      },
+      {
+        "old": "5240 ₴",
+        "actual": "3780 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "90 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2016",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type": "fruity, chypre Top",
+      "Top note": "Calone, Orange, Bergamot, Pear, Raspberry, Strawberry, Tangerine",
+      "Heart note": "Orange blossom, Dope , Jasmine, Jasmine sambac, Peony Base",
+      "Base note": "Vanilla, Cedar, Patchouli leaves, Moss"
+    }
+  },
+  {
+    "id": "15",
+    "name": "L’Homme",
+    "brand": "Yves Saint Laurent",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/4219/",
+    "urlImage": "https://u.makeup.com.ua/e/er/errrjcbxoikj.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "2590 ₴",
+        "actual": "2046 ₴"
+      },
+      {
+        "old": "3150 ₴",
+        "actual": "2386 ₴"
+      },
+      {
+        "old": "4150 ₴",
+        "actual": "2952 ₴"
+      }
+    ],
+    "volume": [
+      "40 ml",
+      "60 ml",
+      "100 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2006",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "woody, floral, musky Top",
+      "Top note": "Ginger, Bergamot, Lemon",
+      "Heart note": "Basil, White pepper, Violet leaves, Spice",
+      "Base note": "tonka beans, vetiver, cedar"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Emporio Armani Stronger With You",
+    "brand": "Giorgio Armani",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/404857/",
+    "urlImage": "https://u.makeup.com.ua/i/iz/izugwkv4dgzc.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "2299 ₴",
+        "actual": "2142 ₴"
+      },
+      {
+        "old": "2699 ₴",
+        "actual": "2123 ₴"
+      },
+      {
+        "old": "3499 ₴",
+        "actual": "3005 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "100 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2017",
+      "Country of TM": "Italy",
+      "Made in": "France",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "fougere Top",
+      "Top note": "Cardamom, Violet leaf, Mint, Pink pepper",
+      "Heart note": "Pineapple, Melon, Sage",
+      "Base note": "White cedar, Vanilla, Wood amber, Chestnut"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Euphoria Men",
+    "brand": "Calvin Klein",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/906/",
+    "urlImage": "https://u.makeup.com.ua/3/34/34gab3ctmdi7.jpg",
+    "price-sale": false,
+    "price": [
+      {
+        "actual": "887 ₴"
+      },
+      {
+        "actual": "1299 ₴"
+      },
+      {
+        "actual": "1611 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "100 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2006",
+      "Country of TM": "USA",
+      "Made in": "France",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "woody, fougere Top",
+      "Top note": "Ginger, Pepper",
+      "Heart note": "Basil, White cedar, Sage Base",
+      "Base note": "Amber, Suede, Mahogany , Patchouli"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Egoiste Platinum",
+    "brand": "Chanel",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/1202/",
+    "urlImage": "https://u.makeup.com.ua/p/pz/pzwrynipndut.jpg",
+    "price-sale": false,
+    "price": [
+      {
+        "actual": "3288 ₴"
+      },
+      {
+        "actual": "4526 ₴"
+      }
+    ],
+    "volume": [
+      "50 ml",
+      "100 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "1993",
+      "Country of TM": "France",
+      "Made in": "France",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "woody",
+      "Top note": "Lavender, Orange tree leaves from Paraguay, Rosemary",
+      "Heart note": "Geranium, Atlas cedar, Frankincense, Sage",
+      "Base note": "Vetiver, Oakmoss, Cedar, Frankincense"
+    }
+  },
+  {
+    "id": "19",
+    "name": "My Way Intense",
+    "brand": "Giorgio Armani",
+    "gender": "for her",
+    "url-item": "https://makeup.com.ua/ua/product/960058/",
+    "urlImage": "https://u.makeup.com.ua/3/38/38b3cuj4shtf.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "2999 ₴",
+        "actual": "2543 ₴"
+      },
+      {
+        "old": "4349 ₴",
+        "actual": "3533 ₴"
+      },
+      {
+        "old": "5999 ₴",
+        "actual": "5156 ₴"
+      }
+    ],
+    "volume": [
+      "30 ml",
+      "50 ml",
+      "90 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2021",
+      "Country of TM": "Italy",
+      "Made in": "France",
+      "Gender": "for women",
+      "Classification": "elite",
+      "Fragrance type":  "floral",
+      "Top note": "Orange blossom",
+      "Heart note": "Tuberose",
+      "Base note": "Vanilla, Sandalwood"
+    }
+  },
+  {
+    "id": "20",
+    "name": "1 Million",
+    "brand": "Paco Rabanne",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/3608/",
+    "urlImage": "https://u.makeup.com.ua/4/41/41ftsqhslies.jpg",
+    "price-sale": true,
+    "price": [
+      {
+        "old": "4519 ₴",
+        "actual": "3841 ₴"
+      }
+    ],
+    "volume": [
+      "200 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2008",
+      "Country of TM": "Spain",
+      "Made in": "France",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "woody, spicy",
+      "Top note": "Grapefruit, Mint, Red mandarin",
+      "Heart note": "Cinnamon, Spices, Rose",
+      "Base note": "Amber , White wood, Patchouli, Leather"
+    }
+  },
+  {
+    "id": "21",
+    "name": "Eros",
+    "brand": "Versace",
+    "gender": "for him",
+    "url-item": "https://makeup.com.ua/ua/product/52915/",
+    "urlImage": "https://u.makeup.com.ua/f/f8/f8lsasag2qcw.jpg",
+    "price-sale": false,
+    "price": [
+      {
+        "actual": "1892 ₴"
+      },
+      {
+        "actual": "2793 ₴"
+      }
+    ],
+    "volume": [
+      "50 ml",
+      "100 ml"
+    ],
+    "description": {
+      "Fragrance premiere": "2012",
+      "Country of TM": "Italy",
+      "Made in": "Italy",
+      "Gender": "for men",
+      "Classification": "elite",
+      "Fragrance type": "fougeres Top",
+      "Top note": "Mint, Citrus, Apple",
+      "Heart note": "Beans, Geranium",
+      "Base note": "Wood"
+    }
+  }
+]

@@ -1,0 +1,70 @@
+.productPage {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.productPage .pseudoHeader {
+  height: 100px;
+  box-sizing: border-box;
+}
+.productPage .productWrapper {
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.productPage .productWrapper .nameFragrance {
+  width: 100%;
+  padding: 30px 0;
+  text-align: center;
+  border-bottom: 4px solid #b2405d;
+  margin-bottom: 30px;
+}
+.productPage .productWrapper .productImageDescr {
+  display: flex;
+}
+.productPage .productWrapper .productImageDescr .imageContainer {
+  height: 500px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.productPage .productWrapper .productImageDescr .imageContainer .productImage {
+  height: 98%;
+  width: auto;
+  max-width: 450px;
+}
+.productPage .productWrapper .productImageDescr .productDescription {
+  width: 500px;
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.productPage .productWrapper .priceVolumeContainer {
+  width: 100%;
+  padding: 30px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20%;
+  border-bottom: 4px solid #b2405d;
+}
+.productPage .productWrapper .priceVolumeContainer .oldPrice {
+  text-decoration: line-through;
+}
+.productPage .productWrapper .priceVolumeContainer .button {
+  padding: 10px 50px;
+  color: #feedf3;
+  cursor: pointer;
+  background-color: #b2405d;
+}
+.productPage .productWrapper .priceVolumeContainer .button:hover {
+  background-color: #185618;
+}
+
+/*# sourceMappingURL=Product.module.css.map */

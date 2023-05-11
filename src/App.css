@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Jost&display=swap");
+* {
+  margin: 0;
+}
+*::-webkit-scrollbar {
+  width: 12px;
+}
+*::-webkit-scrollbar-track {
+  background-color: rgb(7, 7, 7);
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #b2405d;
+  border-radius: 25px;
+}
+
+.App {
+  width: 100%;
+  color: #feedf3;
+  font-family: "Jost", sans-serif;
+}
+
+/*# sourceMappingURL=App.css.map */

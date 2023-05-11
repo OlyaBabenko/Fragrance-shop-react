@@ -1,0 +1,53 @@
+@import "../../../../assets/scss/general";
+
+.productRecommendation {
+  margin: 50px 0;
+  width: 1000px;
+
+  .productSwiper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+}
+
+.productContainer {
+  padding: 10px 0;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition-duration: 0.7s;
+  cursor: pointer;
+  transition-property: transform,-webkit-transform;
+
+  .imageContainer {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+
+    .imageProduct {
+      height: 98%;
+      width: auto;
+      max-width: 250px;
+    }
+  }
+
+  .nameProduct {
+    font-size: 18px;
+  }
+  .volumeProduct {
+    font-size: 14px;
+  }
+
+  &:hover {
+    background-color: $hover;
+    border-radius: 5px;
+    box-shadow: 0px -10px 10px 0px rgba(0, 0, 0, 0.5);
+    transform: perspective(700px) translateZ(30px);
+  }
+
+}
+

@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-image: url("./assets/image/bcg-black2560-1600.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+
+}
