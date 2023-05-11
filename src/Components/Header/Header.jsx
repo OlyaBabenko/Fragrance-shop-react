@@ -1,16 +1,17 @@
 import React, {useState} from "react";
 import "./Header.scss";
 import logo from "../../assets/image/Logo.png";
-// import {Link} from "react-router-dom";
 import searchImg from "../../assets/image/search.png";
 import cart from "../../assets/image/cart-balls.png";
 import heart from "../../assets/image/heart-2.png";
 import login from "../../assets/image/account-login.png";
+
 import ModalCart from "../Main/ModalCart/Modal-cart";
 
 
 const Header = () => {
     const [modalActive, setModalActive] = useState(false)
+
     return (
         <header>
             <img src={logo} alt="Besnik-logo" className="logo"/>

@@ -18,6 +18,7 @@ export const SectionProducts = () => {
         .map(pr => {
             return <ProductItem pr={pr}/>
         });
+
     return (
         <div className="section-products">
             {product}

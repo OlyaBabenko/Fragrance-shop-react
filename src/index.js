@@ -16,5 +16,3 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 store.subscribe(() => {
     let state = store.getState();
 });
-
-

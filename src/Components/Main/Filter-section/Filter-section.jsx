@@ -81,7 +81,6 @@ const FilterSection = () => {
             name={country}
             keyFilter="country"/>
         </div>)
-
     return (
         <div className="filterSection">
             <h3 className="filterTitle">Filter</h3>

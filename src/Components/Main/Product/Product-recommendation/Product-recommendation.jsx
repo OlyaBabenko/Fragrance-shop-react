@@ -37,6 +37,7 @@ function ProductRecommendation(props) {
 
     function createProduct () {
         let arrayProduct=[];
+
         data.forEach(pr => {
             if (pr.brand === props.brand && pr.name !== props.name) {
                 arrayProduct.push(pr)

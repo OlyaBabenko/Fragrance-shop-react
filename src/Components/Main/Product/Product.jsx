@@ -34,7 +34,9 @@ const Product = () => {
     //function for change price
     const [oldPrice, setOldPrice] = useState(product.price[0].old);
     const [actualPrice, setActualPrice] = useState(product.price[0].actual)
+
     const [volumeSelected, setVolumeSelected] = useState(product.volume[0])
+
     const handleChange = (value) => {
         let index = product.volume.indexOf(value);
         setOldPrice(product.price[index].old);
@@ -88,7 +90,6 @@ const Product = () => {
                         <input type="button" value="Add to cart" onClick={() => handleClick(product.id, volumeSelected)} className={style.button}/>
                     </div>
                 </div>
-
             </div>
             <ProductRecommendation brand={product.brand} name={product.name} />
 
