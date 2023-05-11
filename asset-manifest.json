@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/Fragrance-shop-react/static/css/main.e0e44eaa.css",
-    "main.js": "/Fragrance-shop-react/static/js/main.90b6873c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Fragrance-shop-react/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/Fragrance-shop-react/static/css/main.6380f599.css",
+    "main.js": "/Fragrance-shop-react/static/js/main.792a43f8.js",
     "static/media/bcg-black2560-1600.png": "/Fragrance-shop-react/static/media/bcg-black2560-1600.715c901bc13678c72473.png",
     "index.html": "/Fragrance-shop-react/index.html",
-    "main.e0e44eaa.css.map": "/Fragrance-shop-react/static/css/main.e0e44eaa.css.map",
-    "main.90b6873c.js.map": "/Fragrance-shop-react/static/js/main.90b6873c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Fragrance-shop-react/static/js/787.28cb0dcd.chunk.js.map"
+    "main.6380f599.css.map": "/Fragrance-shop-react/static/css/main.6380f599.css.map",
+    "main.792a43f8.js.map": "/Fragrance-shop-react/static/js/main.792a43f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0e44eaa.css",
-    "static/js/main.90b6873c.js"
+    "static/css/main.6380f599.css",
+    "static/js/main.792a43f8.js"
   ]
 }
