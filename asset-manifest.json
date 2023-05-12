@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Fragrance-shop-react/static/css/main.6380f599.css",
-    "main.js": "/Fragrance-shop-react/static/js/main.792a43f8.js",
+    "main.css": "/Fragrance-shop-react/static/css/main.43c95980.css",
+    "main.js": "/Fragrance-shop-react/static/js/main.eb01eed0.js",
     "static/media/bcg-black2560-1600.png": "/Fragrance-shop-react/static/media/bcg-black2560-1600.715c901bc13678c72473.png",
     "index.html": "/Fragrance-shop-react/index.html",
-    "main.6380f599.css.map": "/Fragrance-shop-react/static/css/main.6380f599.css.map",
-    "main.792a43f8.js.map": "/Fragrance-shop-react/static/js/main.792a43f8.js.map"
+    "main.43c95980.css.map": "/Fragrance-shop-react/static/css/main.43c95980.css.map",
+    "main.eb01eed0.js.map": "/Fragrance-shop-react/static/js/main.eb01eed0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6380f599.css",
-    "static/js/main.792a43f8.js"
+    "static/css/main.43c95980.css",
+    "static/js/main.eb01eed0.js"
   ]
 }
